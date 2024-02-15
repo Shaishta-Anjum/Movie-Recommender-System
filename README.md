@@ -1,4 +1,5 @@
 # Movie Recommender System
+![](https://github.com/Shaishta-Anjum/Movie-Recommender-System/blob/main/Image%20File/Movie%20Recommender%20(1).png?raw=true)
 
 This project implements a movie recommender system using machine learning techniques. The system suggests movies to users based on the similarity between movies in a dataset.
 
